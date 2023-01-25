@@ -1,0 +1,5 @@
+# Project exclude paths
+/api/target/
+/bd/target/
+/service/target/
+/.idea/
